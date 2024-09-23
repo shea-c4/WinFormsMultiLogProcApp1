@@ -1,4 +1,6 @@
-# MultiLogProcForm Application
+# WinFormsMultiLogProcForm Application
+
+Windows Forms Multiple Logs Process Form Application.
 
 ## Overview
 
