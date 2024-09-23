@@ -1,21 +1,14 @@
 ﻿using System;
-using System.CodeDom;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Diagnostics;
-using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WinFormsMultiLogProcApp1
 {
-   public partial class Form1 : Form
+   public partial class MultiLogProcForm : Form
    {
-      public Form1()
+      public MultiLogProcForm()
       {
          InitializeComponent();
       }

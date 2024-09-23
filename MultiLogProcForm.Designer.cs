@@ -1,6 +1,6 @@
 ﻿namespace WinFormsMultiLogProcApp1
 {
-   partial class Form1
+   partial class MultiLogProcForm
    {
       /// <summary>
       /// Required designer variable.
