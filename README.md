@@ -6,6 +6,11 @@ Windows Forms Multiple Logs Process Form Application.
 
 This is a Windows Forms application developed using C#. The project contains a form named `MultiLogProcForm` designed for multi-log processing tasks. It provides a graphical interface for interacting with and managing log processes, enabling users to easily view, process, and analyze logs from multiple sources.
 
+### Screenshots
+
+![Form Screenshot](./images/form_screenshot.png)
+![Console Screenshot](./images/console_screenshot.png)
+
 ## Project Structure
 
 - **MultiLogProcForm.cs**: Contains the main logic for the form, including event handling and business logic for processing logs.
@@ -47,6 +52,8 @@ Once the project has been successfully built:
 
 1. Press `F5` or go to `Debug` > `Start Debugging` to run the application.
 2. The main window (`MultiLogProcForm`) will appear, allowing you to interact with the features.
+
+By default the log file is process.log in the directory containing the executable.
 
 ### Troubleshooting
 
